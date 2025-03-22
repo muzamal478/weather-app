@@ -45,13 +45,13 @@
 - **API**: OpenWeatherMap API (endpoint: `https://api.openweathermap.org/data/2.5/weather`).
 
 ### File Structure
-- Single file: `weather-app.html` (contains HTML, CSS, and JavaScript).
+- Single file: `index.html` (contains HTML, CSS, and JavaScript).
 
 ### Dependencies
 - OpenWeatherMap API key (required for fetching weather data).
 - No external libraries or frameworks (pure vanilla code).
 
 ## How to Use the App
-1. Open the `weather-app.html` file in your browser.
+1. Open the `index.html` file in your browser.
 2. Enter a city name in the search field and press Enter or click the search button.
 3. View the real-time weather details for that city.
