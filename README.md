@@ -8,10 +8,6 @@
 
 **Skills Used**: HTML, CSS, JavaScript, API Integration (OpenWeatherMap API)
 
-**Date**: March 21, 2025
-
-**Developed By**: Grok 3 (xAI)
-
 ## Project Goals
 - Create a fully functional weather app that retrieves data from an external API.
 - Design a professional, consistent, and visually appealing UI with a proper color scheme.
@@ -28,13 +24,6 @@
 ### User Interaction:
 - Search for weather by city name via a button or Enter key.
 - Input field clears after each search.
-
-### UI Design:
-- Gradient background (light teal `#74ebd5` to light blue `#acb6e5`).
-- White card with subtle transparency and shadow effects.
-- Blue accents (`#4a90e2`) for buttons and temperature.
-- Rounded corners and consistent spacing.
-- Professional typography using Arial font.
 
 ### Responsive Design:
 - Adapts to screen sizes (desktop and mobile).
@@ -62,16 +51,7 @@
 - OpenWeatherMap API key (required for fetching weather data).
 - No external libraries or frameworks (pure vanilla code).
 
-### Color Scheme
-- **Background**: Linear gradient (`#74ebd5` to `#acb6e5`).
-- **Card**: White with 95% opacity (`#FFFFFF`, `rgba`).
-- **Button/Accent**: Blue (`#4a90e2`, hover: `#357abd`).
-- **Text**: Dark gray (`#333`), medium gray (`#666`), error red (`#e74c3c`).
-
 ## How to Use the App
 1. Open the `weather-app.html` file in your browser.
 2. Enter a city name in the search field and press Enter or click the search button.
 3. View the real-time weather details for that city.
-
-## License
-This project is open source and available under the MIT License.
