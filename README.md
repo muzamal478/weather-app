@@ -1,6 +1,6 @@
 # Weather App
 
-# Your site is live at: 
+# live Weather-App: 
 
 [live Weather-App](https://muzamal478.github.io/weather-app/) 
 
