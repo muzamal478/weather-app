@@ -2,7 +2,7 @@
 
 # Your site is live at: 
 
-[liveWeather](https://muzamal478.github.io/weather-app/) 
+[live Weather-App](https://muzamal478.github.io/weather-app/) 
 
 ## Project Overview
 
